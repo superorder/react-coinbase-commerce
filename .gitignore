@@ -148,4 +148,4 @@ typings/
 #
 
 ## CUSTOM
-dist/
+# dist/
