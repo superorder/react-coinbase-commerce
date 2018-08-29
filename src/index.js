@@ -97,3 +97,4 @@ class CoinbaseCommerceButton extends React.Component<Props, State> {
 }
 export default CoinbaseCommerceButton;
 export type { MessageData };
+export { IFrame };
